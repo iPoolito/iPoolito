@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/poolortega/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/ipoolito/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href="https://www.youtube.com/channel/UC7JB-b5IRJhxg38og39nHoA">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<img align="right" src="https://c.tenor.com/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" />
+<img align="right" width="100" height="100"  src="https://c.tenor.com/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="poolortega.com">Pool</a>.</li>
+<li>🔭 I’m currently working on <a href="https://www.poolortega.com/" target="_blank">Pool</a>.</li>
 <li>🧐 Learning about <strong>AWS</strong> and <strong>Remix</strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/iPoolito">Github</a>.</li>
 <li>📝 I regulary uploads videos in <a href="https://www.youtube.com/channel/UC7JB-b5IRJhxg38og39nHoA">my Chanel</a>.</li>
