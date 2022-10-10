@@ -1,14 +1,14 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/poolortega/">Pool</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://divelement.io/es/">Divelement</a></strong> and formerly at <strong><a href="https://www.ironhack.com/en/mexico-city">Ironhack</a></strong> based in 🌁 Mexico. I am working on some side projects, learning a couple new dishes, and trying to get better in exercise 🏋️ .</p>
 
-
 <a href="https://www.linkedin.com/in/poolortega/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/ipoolito/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href="https://www.youtube.com/channel/UC7JB-b5IRJhxg38og39nHoA">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://c.tenor.com/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" />
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="">Pool</a>.</li>
+<li>🔭 I’m currently working on <a href="poolortega.com">Pool</a>.</li>
 <li>🧐 Learning about <strong>AWS</strong> and <strong>Remix</strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/iPoolito">Github</a>.</li>
 <li>📝 I regulary uploads videos in <a href="https://www.youtube.com/channel/UC7JB-b5IRJhxg38og39nHoA">my Chanel</a>.</li>
