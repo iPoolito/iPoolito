@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/poolortega/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/ipoolito/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href="https://www.youtube.com/channel/UC7JB-b5IRJhxg38og39nHoA">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<img align="right" width="500" height="500"  src="https://c.tenor.com/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" />
+<img align="right" width="300" height="300"  src="https://c.tenor.com/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
